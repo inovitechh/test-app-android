@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow: Pomodoro & Task Tracker (Android Jetpack Compose)",
+  "description": "Complete single-file Jetpack Compose Android app (MainActivity.kt) featuring Pomodoro countdown timer, daily focus session counter, and task tracker with interactive live Android preview and 1-click code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
